@@ -1,2 +1,2 @@
 # ReflectGUI
-![img.png](https://i.imgur.com/287DClA.jpg)
+![img.png](https://github.com/wrongobject/ReflectGUI/blob/master/img.png)
