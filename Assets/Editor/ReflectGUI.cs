@@ -281,6 +281,7 @@ public static class ReflectGUI
             if (GUILayout.Button("Remove"))
             {
                 data.Remove(key);
+                break;
             }
             GUILayout.EndHorizontal();
         }
